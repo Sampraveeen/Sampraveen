@@ -22,3 +22,7 @@ I'm a final-year Computer Science Engineering student passionate about web devel
 ## Projects
 - WordPress Email Subscriber Plugin
 - Cloud-based ETL & AI projects
+
+### Open Source
+- React Docs Contribution: https://github.com/reactjs/react.dev/pull/8239
+
